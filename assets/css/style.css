@@ -113,3 +113,9 @@ body{
 #generator:hover{
     background-color: var(--color-purple-600);
 }
+
+#result{
+    font-size: 50px;
+    font-weight: bold;
+    color: var(--color-dark-700);
+}
