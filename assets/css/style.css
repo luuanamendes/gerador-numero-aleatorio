@@ -107,5 +107,9 @@ body{
     font-weight: bold;
     font-size: 24px;
     color: var(--color-ligth-50);
+    cursor: pointer;
 }
 
+#generator:hover{
+    background-color: var(--color-purple-600);
+}
