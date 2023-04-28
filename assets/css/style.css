@@ -97,3 +97,15 @@ body{
    font-size: 18px;
    text-align: center;
 }
+
+#generator{
+    width: 200px;
+    height: 60px;
+    border: none;
+    border-radius: 4px;
+    background-color: var(--color-purple-500);
+    font-weight: bold;
+    font-size: 24px;
+    color: var(--color-ligth-50);
+}
+
